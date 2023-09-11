@@ -1,2 +1,2 @@
 # Hello-world
-print("my name is afifa")
+my name is afifa
